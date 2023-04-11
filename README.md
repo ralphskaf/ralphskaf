@@ -1,4 +1,4 @@
-# About Me:
+#  About Me:
 💻 My current tech stack includes React, Next, Node.js <br>🚀 I'm passionate about blockchain technology and its potential to transform industries.<br>🎨 I enjoy creating visually appealing and user-friendly websites.<br>🎓 My education includes a Bachelor's degree in Computer Science<br>🌟 My strengths include attention to detail, communication, and time management.<br>
 
 
